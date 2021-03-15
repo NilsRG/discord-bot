@@ -1,5 +1,5 @@
 # Discord-Bot
-A discord bot made with Python for the SwissBorg discord server.
+A discord bot Dylan Buchi made with Python for the SwissBorg discord server.
 
 ## Moderator commands (manage server permissions):
 
